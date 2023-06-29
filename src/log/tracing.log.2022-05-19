@@ -1,0 +1,549 @@
+2022-05-19 > 22:53:26.826 DEBUG main MVCam9: Enum Deivices success.
+2022-05-19 > 22:53:26.828 DEBUG main MVCam9: Access is success.
+2022-05-19 > 22:53:26.855 DEBUG main MVCam9: Create handle success.
+2022-05-19 > 22:53:27.124 DEBUG main MVCam9: Open device success
+2022-05-19 > 22:53:27.126 DEBUG main MVCam9: Setting format Success.
+2022-05-19 > 22:53:27.204 DEBUG main MVCam9: Start grabbing stream success.
+2022-05-19 > 22:53:30.261  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:30.261 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:30.261 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:30.261 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:30.261  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:30.265 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:30.271 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:30.271 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:30.271 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:30.271 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:30.271  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:30.620 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:30.620 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:30.620  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:30.620 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:30.620  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:30.622  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:30.622 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:34.237  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:34.237 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:34.237 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:34.237 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:34.237  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:34.237 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:34.245 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:34.245 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:34.245 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:34.245 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:34.245  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:34.590 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:34.590 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:34.590  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:34.590 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:34.590  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:34.592  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:34.592 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:36.512  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:36.512 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:36.512 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:36.512 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:36.512  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:36.512 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:36.517 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:36.517 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:36.517 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:36.517 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:36.517  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:36.870 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:36.870 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:36.870  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:36.870 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:36.870  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:36.872  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:36.872 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:38.318  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:38.318 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:38.318 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:38.318 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:38.318  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:38.318 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:38.323 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:38.323 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:38.323 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:38.323 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:38.323  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:38.689 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:38.689 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:38.689  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:38.689 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:38.689  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:38.691  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:38.691 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:41.091  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:41.091 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:41.091 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:41.091 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:41.091  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:41.091 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:41.096 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:41.096 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:41.096 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:41.096 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:41.096  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:41.449 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:41.449 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:41.449  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:41.449 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:41.449  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:41.451  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:41.451 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:43.069  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:43.069 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:43.069 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:43.069 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:43.069  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:43.069 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:43.074 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:43.074 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:43.074 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:43.074 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:43.074  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:43.444 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:43.444 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:43.444  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:43.444 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:43.444  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:43.446  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:43.446 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:49.120  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:49.120 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:49.120 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:49.120 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:49.120  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:49.120 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:49.125 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:49.125 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:49.125 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:49.125 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:49.125  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:49.468 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:49.468 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:49.468  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:49.468 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:49.468  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:49.470  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:49.470 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:55.959  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:55.959 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:55.959 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:55.959 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:55.959  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:55.959 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:55.966 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:55.966 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:55.966 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:55.966 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:55.966  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:56.339 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:56.339 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:56.339  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:56.339 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:56.339  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:56.341  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:56.341 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:53:58.244  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:53:58.244 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:53:58.244 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:53:58.244 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:53:58.244  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:53:58.244 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:53:58.251 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:53:58.251 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:53:58.251 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:53:58.251 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:53:58.251  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:53:58.574 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:53:58.575 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:53:58.575  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:53:58.575 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:53:58.575  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:53:58.576  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:53:58.577 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:54:00.419  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:54:00.419 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:54:00.420 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:54:00.420 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:54:00.420  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:54:00.420 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:54:00.426 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:54:00.426 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:54:00.426 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:54:00.426 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:54:00.427  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:54:00.775 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:54:00.775 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:54:00.775  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:54:00.775 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:54:00.775  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:54:00.777  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:54:00.777 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:54:17.167  INFO main MVCam9: Got signal: [0]
+2022-05-19 > 22:54:17.167  INFO main MVCam9: >>>>>>>>Program Quit<<<<<<<<
+2022-05-19 > 22:54:17.194 DEBUG main MVCam9: Stop grabbing success.
+2022-05-19 > 22:54:17.353 DEBUG main MVCam9: Close device success.
+2022-05-19 > 22:54:17.369 DEBUG main MVCam9: Destroy handle success.
+2022-05-19 > 22:55:01.675 DEBUG main MVCam9: Enum Deivices success.
+2022-05-19 > 22:55:01.677 DEBUG main MVCam9: Access is success.
+2022-05-19 > 22:55:01.686 DEBUG main MVCam9: Create handle success.
+2022-05-19 > 22:55:01.960 DEBUG main MVCam9: Open device success
+2022-05-19 > 22:55:01.962 DEBUG main MVCam9: Setting format Success.
+2022-05-19 > 22:55:02.000 DEBUG main MVCam9: Start grabbing stream success.
+2022-05-19 > 22:55:07.519  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:55:07.519 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:55:07.519 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:55:07.519 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:55:07.519  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:55:07.521 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:55:07.528 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:55:07.528 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:55:07.528 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:55:07.528 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:55:07.528  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:55:07.836 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:55:07.836 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:55:07.836  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:55:07.836 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:55:07.836  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:55:07.837  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:55:07.841  INFO main MVCam9::imgp::img_proc: Source image has been saved to D:\00-Program\05-Rust\09-MVC\MVCam9\images\2022_05_19\bmp\271001-1001-2022_05_19_22_55_07_837.bmp
+2022-05-19 > 22:55:07.841 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:55:27.357  INFO main MVCam9: Got signal: [0]
+2022-05-19 > 22:55:27.357  INFO main MVCam9: >>>>>>>>Program Quit<<<<<<<<
+2022-05-19 > 22:55:27.373 DEBUG main MVCam9: Stop grabbing success.
+2022-05-19 > 22:55:27.560 DEBUG main MVCam9: Close device success.
+2022-05-19 > 22:55:27.576 DEBUG main MVCam9: Destroy handle success.
+2022-05-19 > 22:57:11.241 DEBUG main MVCam9: Enum Deivices success.
+2022-05-19 > 22:57:11.243 DEBUG main MVCam9: Access is success.
+2022-05-19 > 22:57:11.250 DEBUG main MVCam9: Create handle success.
+2022-05-19 > 22:57:11.493 DEBUG main MVCam9: Open device success
+2022-05-19 > 22:57:11.496 DEBUG main MVCam9: Setting format Success.
+2022-05-19 > 22:57:11.540 DEBUG main MVCam9: Start grabbing stream success.
+2022-05-19 > 22:57:15.804  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:57:15.804 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:57:15.804 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:57:15.804 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:57:15.804  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:57:15.807 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:57:15.820 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:57:15.820 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:57:15.820 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:57:15.820 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:57:15.820  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:57:16.157 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 22:57:16.157 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 22:57:16.157  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 22:57:16.157 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:57:16.157  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 22:57:16.158  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 22:57:16.161  INFO main MVCam9::imgp::img_proc: Source image has been saved to D:\00-Program\05-Rust\09-MVC\MVCam9\images\2022_05_19\bmp\271001-1001-2022_05_19_22_57_16_158.bmp
+2022-05-19 > 22:57:16.162 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:57:28.822  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 22:57:28.822 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 22:57:28.822 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 22:57:28.822 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 22:57:28.822  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 22:57:28.823 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 22:57:28.836 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 22:57:28.836 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 22:57:28.836 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 22:57:28.836 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 22:57:28.836  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 22:57:29.193 DEBUG main MVCam9::detection::img_det: Buffer size: 177
+2022-05-19 > 22:57:29.193 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"NG\", \"target_list\": [[[470, 228, 805, 811], 0.5141588449478149, 41], [[375, 0, 1084, 419], 0.5326215624809265, 0]]}"
+2022-05-19 > 22:57:29.193  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "NG",
+    target_list: [
+        TargetInfo {
+            box_pos: [
+                470,
+                228,
+                805,
+                811,
+            ],
+            box_conf: 0.51415884,
+            label_type: 41,
+        },
+        TargetInfo {
+            box_pos: [
+                375,
+                0,
+                1084,
+                419,
+            ],
+            box_conf: 0.53262156,
+            label_type: 0,
+        },
+    ],
+}
+2022-05-19 > 22:57:29.193 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 22:57:29.193  INFO main MVCam9: The image detect result is "NG"
+2022-05-19 > 22:57:29.195  INFO main MVCam9::imgp::img_proc: Result NG
+2022-05-19 > 22:57:29.197  INFO main MVCam9::imgp::img_proc: Source image has been saved to D:\00-Program\05-Rust\09-MVC\MVCam9\images\2022_05_19\bmp\271001-1001-2022_05_19_22_57_29_195.bmp
+2022-05-19 > 22:57:29.219  INFO main MVCam9::imgp::img_proc: Result image has been saved to D:\00-Program\05-Rust\09-MVC\MVCam9\images\2022_05_19\result\271001-1001-2022_05_19_22_57_29_195.jpg
+2022-05-19 > 22:57:29.219 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 22:57:53.179  INFO main MVCam9: Got signal: [0]
+2022-05-19 > 22:57:53.179  INFO main MVCam9: >>>>>>>>Program Quit<<<<<<<<
+2022-05-19 > 22:57:53.206 DEBUG main MVCam9: Stop grabbing success.
+2022-05-19 > 22:57:53.425 DEBUG main MVCam9: Close device success.
+2022-05-19 > 22:57:53.441 DEBUG main MVCam9: Destroy handle success.
+2022-05-19 > 23:36:10.500 DEBUG main MVCam9: Enum Deivices success.
+2022-05-19 > 23:36:10.502 DEBUG main MVCam9: Access is success.
+2022-05-19 > 23:36:10.510 DEBUG main MVCam9: Create handle success.
+2022-05-19 > 23:36:10.784 DEBUG main MVCam9: Open device success
+2022-05-19 > 23:36:10.787 DEBUG main MVCam9: Setting format Success.
+2022-05-19 > 23:36:10.828 DEBUG main MVCam9: Start grabbing stream success.
+2022-05-19 > 23:36:14.452  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 23:36:14.453 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 23:36:14.453 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 23:36:14.453 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 23:36:14.453  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 23:36:14.455 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 23:36:14.468 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 23:36:14.468 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 23:36:14.469 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 23:36:14.469 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 23:36:14.469  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 23:36:14.839 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 23:36:14.839 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 23:36:14.840  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 23:36:14.840 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 23:36:14.840  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 23:36:14.841  INFO main MVCam9::imgp::img_proc: Dir not exist, Creating......
+2022-05-19 > 23:36:14.842  INFO main MVCam9::imgp::img_proc: Dir not exist, Creating......
+2022-05-19 > 23:36:14.843  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 23:36:14.845  INFO main MVCam9::imgp::img_proc: Source image has been saved to ./images\2022_05_19\bmp\271001-1001-2022_05_19_23_36_14_841.bmp
+2022-05-19 > 23:36:14.846 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 23:36:38.796  INFO main MVCam9: Got signal: [0]
+2022-05-19 > 23:36:38.796  INFO main MVCam9: >>>>>>>>Program Quit<<<<<<<<
+2022-05-19 > 23:36:38.826 DEBUG main MVCam9: Stop grabbing success.
+2022-05-19 > 23:36:39.060 DEBUG main MVCam9: Close device success.
+2022-05-19 > 23:36:39.076 DEBUG main MVCam9: Destroy handle success.
+2022-05-19 > 23:36:49.231 DEBUG main MVCam9: Enum Deivices success.
+2022-05-19 > 23:36:49.233 DEBUG main MVCam9: Access is success.
+2022-05-19 > 23:36:49.241 DEBUG main MVCam9: Create handle success.
+2022-05-19 > 23:36:49.502 DEBUG main MVCam9: Open device success
+2022-05-19 > 23:36:49.504 DEBUG main MVCam9: Setting format Success.
+2022-05-19 > 23:36:49.545 DEBUG main MVCam9: Start grabbing stream success.
+2022-05-19 > 23:36:53.209  INFO main MVCam9: Got signal: [1]
+2022-05-19 > 23:36:53.209 DEBUG main MVCam9: Get frame success: Width: 1224, Height: 1024
+2022-05-19 > 23:36:53.209 DEBUG main MVCam9: First unsafe operation.
+2022-05-19 > 23:36:53.209 DEBUG main MVCam9: Second unsafe operation.
+2022-05-19 > 23:36:53.209  INFO main MVCam9: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-19 > 23:36:53.212 DEBUG main MVCam9::imgp::img_proc: Image process finished.
+2022-05-19 > 23:36:53.226 DEBUG main MVCam9::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-19 > 23:36:53.226 DEBUG main MVCam9: Image Process Finished.
+2022-05-19 > 23:36:53.226 DEBUG main MVCam9: Start detect Z:/capture.jpg
+2022-05-19 > 23:36:53.226 DEBUG main MVCam9::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-19 > 23:36:53.226  INFO main MVCam9::detection::img_det: Image data sent.
+2022-05-19 > 23:36:53.570 DEBUG main MVCam9::detection::img_det: Buffer size: 85
+2022-05-19 > 23:36:53.570 DEBUG main MVCam9::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-19 > 23:36:53.570  INFO main MVCam9::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-19 > 23:36:53.570 DEBUG main MVCam9: Detect finished.
+2022-05-19 > 23:36:53.570  INFO main MVCam9: The image detect result is "OK"
+2022-05-19 > 23:36:53.572  INFO main MVCam9::imgp::img_proc: Result OK
+2022-05-19 > 23:36:53.575  INFO main MVCam9::imgp::img_proc: Source image has been saved to ../images\2022_05_19\bmp\271001-1001-2022_05_19_23_36_53_572.bmp
+2022-05-19 > 23:36:53.575 DEBUG main MVCam9: Free Frame Success.
+2022-05-19 > 23:37:07.822  INFO main MVCam9: Got signal: [0]
+2022-05-19 > 23:37:07.822  INFO main MVCam9: >>>>>>>>Program Quit<<<<<<<<
+2022-05-19 > 23:37:07.840 DEBUG main MVCam9: Stop grabbing success.
+2022-05-19 > 23:37:07.979 DEBUG main MVCam9: Close device success.
+2022-05-19 > 23:37:07.995 DEBUG main MVCam9: Destroy handle success.

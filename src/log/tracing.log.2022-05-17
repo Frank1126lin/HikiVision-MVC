@@ -1,0 +1,217 @@
+2022-05-17 > 15:29:41.107 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 15:29:41.107 DEBUG main MVCam6: erro: access is unavilable.
+2022-05-17 > 18:23:16.478 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 18:23:16.480 DEBUG main MVCam6: Access is success.
+2022-05-17 > 18:23:16.495 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 18:23:16.772 DEBUG main MVCam6: Open device success
+2022-05-17 > 18:23:16.838 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 18:23:23.553  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 18:23:23.553 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 18:23:23.553 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 18:23:23.553 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 18:25:23.160 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 18:25:23.161 DEBUG main MVCam6: Access is success.
+2022-05-17 > 18:25:23.168 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 18:25:23.418 DEBUG main MVCam6: Open device success
+2022-05-17 > 18:25:23.462 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 18:25:25.348  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 18:25:25.348 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 18:25:25.348 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 18:25:25.348 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 18:25:25.353 DEBUG main MVCam6: File Save failed Z:/img/capture.bmp
+2022-05-17 > 18:25:25.353 DEBUG main MVCam6: Free frame success.
+2022-05-17 > 18:26:03.530  INFO main MVCam6: Got signal: [49]
+2022-05-17 > 18:26:03.530 DEBUG main MVCam6: PLC send string 1.
+2022-05-17 > 18:26:06.768  INFO main MVCam6: Got signal: [50]
+2022-05-17 > 18:26:06.768 DEBUG main MVCam6: Wrong signal.
+2022-05-17 > 18:26:09.154  INFO main MVCam6: Got signal: [48]
+2022-05-17 > 18:26:09.154 DEBUG main MVCam6: PLC send string 0.
+2022-05-17 > 18:26:12.556  INFO main MVCam6: Got signal: [0]
+2022-05-17 > 18:26:12.556  INFO main MVCam6: >>>>>>>>Program Quit<<<<<<<<
+2022-05-17 > 18:26:12.578 DEBUG main MVCam6: Stop grabbing success.
+2022-05-17 > 18:26:12.795 DEBUG main MVCam6: Close device success.
+2022-05-17 > 18:26:12.810 DEBUG main MVCam6: Destroy handle success.
+2022-05-17 > 18:26:53.647 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 18:26:53.649 DEBUG main MVCam6: Access is success.
+2022-05-17 > 18:26:53.656 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 18:26:53.921 DEBUG main MVCam6: Open device success
+2022-05-17 > 18:26:53.963 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 18:26:56.889  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 18:26:56.889 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 18:26:56.889 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 18:26:56.889 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 18:26:56.895 DEBUG main MVCam6: File Save failed Z:/capture.bmp
+2022-05-17 > 18:26:56.895 DEBUG main MVCam6: Free frame success.
+2022-05-17 > 18:29:54.889  INFO main MVCam6: Got signal: [0]
+2022-05-17 > 18:29:54.889  INFO main MVCam6: >>>>>>>>Program Quit<<<<<<<<
+2022-05-17 > 18:29:54.918 DEBUG main MVCam6: Stop grabbing success.
+2022-05-17 > 18:29:55.024 DEBUG main MVCam6: Close device success.
+2022-05-17 > 18:29:55.040 DEBUG main MVCam6: Destroy handle success.
+2022-05-17 > 19:15:46.202 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 19:15:46.206 DEBUG main MVCam6: Access is success.
+2022-05-17 > 19:15:46.216 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 19:15:46.527 DEBUG main MVCam6: Open device success
+2022-05-17 > 19:15:46.578 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 19:15:49.879  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 19:15:49.879 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 19:15:49.879 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 19:15:49.879 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 19:15:49.879  INFO main MVCam6: Show the Image.
+2022-05-17 > 19:17:41.335 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 19:17:41.336 DEBUG main MVCam6: Access is success.
+2022-05-17 > 19:17:41.343 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 19:17:41.578 DEBUG main MVCam6: Open device success
+2022-05-17 > 19:17:41.616 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 19:17:45.752  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 19:17:45.752 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 19:17:45.752 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 19:17:45.752 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 19:17:45.752  INFO main MVCam6: Show the Image.
+2022-05-17 > 19:22:37.796 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 19:22:37.798 DEBUG main MVCam6: Access is success.
+2022-05-17 > 19:22:37.804 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 19:22:38.060 DEBUG main MVCam6: Open device success
+2022-05-17 > 19:22:38.096 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 19:22:39.247  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 19:22:39.247 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 19:22:39.247 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 19:22:39.247 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 19:54:34.886 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 19:54:34.888 DEBUG main MVCam6: Access is success.
+2022-05-17 > 19:54:34.894 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 19:54:35.143 DEBUG main MVCam6: Open device success
+2022-05-17 > 19:54:35.186 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 19:54:36.481  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 19:54:36.481 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 19:54:36.481 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 19:54:36.481 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:02:15.160 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:02:15.161 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:02:15.169 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:02:15.439 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:02:15.476 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:02:16.627  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:02:16.627 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:02:16.627 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:02:16.628 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:35:24.370 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:35:24.372 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:35:24.378 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:35:24.640 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:35:24.672 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:36:22.202 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:36:22.203 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:36:22.209 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:36:22.445 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:36:22.482 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:36:25.725  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:36:25.725 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:36:25.725 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:36:25.725 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:36:25.725  INFO main MVCam6: Source Image size: Size_ { width: 1224, height: 1024 }
+2022-05-17 > 20:43:14.604 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:43:14.606 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:43:14.613 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:43:14.858 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:43:14.907 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:43:16.113  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:43:16.113 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:43:16.113 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:43:16.113 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:46:56.500 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:46:56.502 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:46:56.510 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:46:56.804 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:46:56.846 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:46:57.877  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:46:57.878 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:46:57.878 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:46:57.878 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:54:15.310 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:54:15.312 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:54:15.320 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:54:15.570 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:54:15.610 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:54:17.388  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:54:17.388 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:54:17.388 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:54:17.388 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:54:50.523 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:54:50.525 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:54:50.531 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:54:50.770 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:54:50.808 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:54:52.505  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:54:52.505 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:54:52.505 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:54:52.505 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:58:20.372 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 20:58:20.373 DEBUG main MVCam6: Access is success.
+2022-05-17 > 20:58:20.380 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 20:58:20.636 DEBUG main MVCam6: Open device success
+2022-05-17 > 20:58:20.673 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 20:58:21.771  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 20:58:21.771 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 20:58:21.771 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 20:58:21.771 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 20:58:21.772  INFO main MVCam6: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-17 > 21:03:02.908 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 21:03:02.910 DEBUG main MVCam6: Access is success.
+2022-05-17 > 21:03:02.917 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 21:03:03.175 DEBUG main MVCam6: Open device success
+2022-05-17 > 21:03:03.223 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 21:03:04.614  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 21:03:04.614 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 21:03:04.614 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 21:03:04.614 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 21:03:04.614  INFO main MVCam6: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-17 > 21:07:41.242 DEBUG main MVCam6: Enum Deivices success.
+2022-05-17 > 21:07:41.244 DEBUG main MVCam6: Access is success.
+2022-05-17 > 21:07:41.250 DEBUG main MVCam6: Create handle success.
+2022-05-17 > 21:07:41.542 DEBUG main MVCam6: Open device success
+2022-05-17 > 21:07:41.588 DEBUG main MVCam6: Start grabbing stream success.
+2022-05-17 > 21:07:42.717  INFO main MVCam6: Got signal: [1]
+2022-05-17 > 21:07:42.717 DEBUG main MVCam6: Get frame success: Width: 1224, Height: 1024
+2022-05-17 > 21:07:42.717 DEBUG main MVCam6: First unsafe operation.
+2022-05-17 > 21:07:42.717 DEBUG main MVCam6: Second unsafe operation.
+2022-05-17 > 21:07:42.717  INFO main MVCam6: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-18 > 00:38:40.581 DEBUG main MVCam7: Enum Deivices success.
+2022-05-18 > 00:38:40.583 DEBUG main MVCam7: Access is success.
+2022-05-18 > 00:38:40.592 DEBUG main MVCam7: Create handle success.
+2022-05-18 > 00:38:40.901 DEBUG main MVCam7: Open device success
+2022-05-18 > 00:38:40.941 DEBUG main MVCam7: Start grabbing stream success.
+2022-05-18 > 00:38:40.942 DEBUG main MVCam7: Get value success.
+2022-05-18 > 00:39:03.205  INFO main MVCam7: Got signal: [1]
+2022-05-18 > 00:39:03.205 DEBUG main MVCam7: Get frame success: Width: 1224, Height: 1024
+2022-05-18 > 00:39:03.213 DEBUG main MVCam7: Save image Failed.
+2022-05-18 > 01:01:41.563 DEBUG main MVCam7: Enum Deivices success.
+2022-05-18 > 01:01:41.564 DEBUG main MVCam7: Access is success.
+2022-05-18 > 01:01:41.571 DEBUG main MVCam7: Create handle success.
+2022-05-18 > 01:01:41.825 DEBUG main MVCam7: Open device success
+2022-05-18 > 01:01:41.864 DEBUG main MVCam7: Start grabbing stream success.
+2022-05-18 > 01:01:41.864 DEBUG main MVCam7: Get value success.
+2022-05-18 > 01:01:53.725  INFO main MVCam7: Got signal: [1]
+2022-05-18 > 01:01:53.725 DEBUG main MVCam7: Get frame success: Width: 1224, Height: 1024
+2022-05-18 > 01:01:53.732 DEBUG main MVCam7: Save image Failed.
+2022-05-18 > 01:09:48.522 DEBUG main MVCam7: Enum Deivices success.
+2022-05-18 > 01:09:48.524 DEBUG main MVCam7: Access is success.
+2022-05-18 > 01:09:48.532 DEBUG main MVCam7: Create handle success.
+2022-05-18 > 01:09:48.872 DEBUG main MVCam7: Open device success
+2022-05-18 > 01:09:48.915 DEBUG main MVCam7: Start grabbing stream success.
+2022-05-18 > 01:09:48.915 DEBUG main MVCam7: Get value success.
+2022-05-18 > 01:09:48.915 DEBUG main MVCam7: The buf size value was 2508800
+2022-05-18 > 01:09:59.903  INFO main MVCam7: Got signal: [1]
+2022-05-18 > 01:09:59.903 DEBUG main MVCam7: Get frame success: Width: 1224, Height: 1024
+2022-05-18 > 01:09:59.903 DEBUG main MVCam7: Try to alloc the mem.
+2022-05-18 > 01:09:59.903 DEBUG main MVCam7: Alloc the mem done.
+2022-05-18 > 01:09:59.903 DEBUG main MVCam7: Try to save image.
+2022-05-18 > 01:09:59.910 DEBUG main MVCam7: Save image Failed.

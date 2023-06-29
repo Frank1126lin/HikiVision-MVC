@@ -1,0 +1,7 @@
+expose_time = 86000.0; // 相机曝光时间ns
+plc_addr = "127.0.0.1:9527"; // PLC 服务地址
+ai_addr = "127.0.0.2:7966"; // ai服务地址
+file_name = "Z:/capture.jpg"; // 中转图片名
+product_id = "271001"; //产品编号
+index = "1001"; // 相机位置编号
+save_dir = "./images"; // 保存图片地址

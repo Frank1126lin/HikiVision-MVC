@@ -1,0 +1,455 @@
+2022-05-20 > 10:29:43.244 DEBUG main MVCam9: Enum Deivices success.
+2022-05-20 > 10:29:43.244 DEBUG main MVCam9: Access is unavilable.
+2022-05-20 > 10:29:59.832 DEBUG main MVCam9: Enum Deivices success.
+2022-05-20 > 10:29:59.832 DEBUG main MVCam9: Access is unavilable.
+2022-05-20 > 10:33:43.252 DEBUG main MVCam9: Enum Deivices success.
+2022-05-20 > 10:33:43.252 DEBUG main MVCam9: Access is unavilable.
+2022-05-20 > 19:42:54.879 DEBUG main MVCam10: Enum Deivices success.
+2022-05-20 > 19:42:54.880 DEBUG main MVCam10: Access is success.
+2022-05-20 > 19:42:54.889 DEBUG main MVCam10: Create handle success.
+2022-05-20 > 19:42:55.147 DEBUG main MVCam10: Open device success
+2022-05-20 > 19:42:55.147 DEBUG main MVCam10: Setting expose time Failed.
+2022-05-20 > 19:43:05.885 DEBUG main MVCam10: Enum Deivices success.
+2022-05-20 > 19:43:05.887 DEBUG main MVCam10: Access is success.
+2022-05-20 > 19:43:05.894 DEBUG main MVCam10: Create handle success.
+2022-05-20 > 19:43:06.160 DEBUG main MVCam10: Open device success
+2022-05-20 > 19:43:06.160 DEBUG main MVCam10: Setting expose time Failed.
+2022-05-20 > 19:45:10.067 DEBUG main MVCam10: Enum Deivices success.
+2022-05-20 > 19:45:10.069 DEBUG main MVCam10: Access is success.
+2022-05-20 > 19:45:10.078 DEBUG main MVCam10: Create handle success.
+2022-05-20 > 19:45:10.336 DEBUG main MVCam10: Open device success
+2022-05-20 > 19:45:10.337 DEBUG main MVCam10: Setting expose time Failed.
+2022-05-20 > 19:50:19.747 DEBUG main MVCam10: Enum Deivices success.
+2022-05-20 > 19:50:19.749 DEBUG main MVCam10: Access is unavilable.
+2022-05-20 > 19:50:29.648 DEBUG main MVCam10: Enum Deivices success.
+2022-05-20 > 19:50:29.650 DEBUG main MVCam10: Access is success.
+2022-05-20 > 19:50:29.656 DEBUG main MVCam10: Create handle success.
+2022-05-20 > 19:50:29.894 DEBUG main MVCam10: Open device success
+2022-05-20 > 19:50:29.904 DEBUG main MVCam10: Setting expose time Success.
+2022-05-20 > 19:50:29.906 DEBUG main MVCam10: Setting format Success.
+2022-05-20 > 19:50:29.948 DEBUG main MVCam10: Start grabbing stream success.
+2022-05-20 > 19:50:35.268  INFO main MVCam10: Got signal: [1]
+2022-05-20 > 19:50:35.268 DEBUG main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:50:35.268 DEBUG main MVCam10: First unsafe operation.
+2022-05-20 > 19:50:35.268 DEBUG main MVCam10: Second unsafe operation.
+2022-05-20 > 19:50:35.269  INFO main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:50:35.275 DEBUG main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:50:35.294 DEBUG main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:50:35.294 DEBUG main MVCam10: Image Process Finished.
+2022-05-20 > 19:50:35.294 DEBUG main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:50:35.294 DEBUG main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:50:35.295  INFO main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:50:35.657 DEBUG main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:50:35.657 DEBUG main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:50:35.658  INFO main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:50:35.658 DEBUG main MVCam10: Detect finished.
+2022-05-20 > 19:50:35.658  INFO main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:50:35.660 DEBUG main MVCam10: Free Frame Success.
+2022-05-20 > 19:50:35.660  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Dir not exist, Creating......
+2022-05-20 > 19:50:35.661  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Dir not exist, Creating......
+2022-05-20 > 19:50:35.662  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:50:35.665  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_50_35_660.bmp
+2022-05-20 > 19:50:50.649  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:50:50.649 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:50:50.649 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:50:50.649 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:50:50.649  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:50:50.650 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:50:50.664 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:50:50.664 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:50:50.664 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:50:50.664 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:50:50.664  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:50:50.994 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:50:50.994 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:50:50.994  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:50:50.994 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:50:50.994  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:50:50.995 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:50:50.995  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:50:50.999  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_50_50_995.bmp
+2022-05-20 > 19:50:59.296  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:50:59.296 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:50:59.296 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:50:59.296 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:50:59.296  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:50:59.297 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:50:59.308 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:50:59.308 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:50:59.308 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:50:59.308 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:50:59.308  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:50:59.634 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:50:59.634 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:50:59.635  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:50:59.635 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:50:59.635  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:50:59.636 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:50:59.636  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:50:59.638  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_50_59_636.bmp
+2022-05-20 > 19:52:11.917  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:11.917 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:11.917 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:11.917 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:11.917  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:11.918 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:11.928 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:11.928 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:11.928 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:11.928 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:11.928  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:12.254 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:12.254 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:12.254  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:12.254 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:12.255  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:12.256 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:12.256  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:12.259  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_12_256.bmp
+2022-05-20 > 19:52:16.473  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:16.473 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:16.473 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:16.473 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:16.473  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:16.474 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:16.484 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:16.484 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:16.484 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:16.484 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:16.484  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:16.808 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:16.808 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:16.808  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:16.808 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:16.809  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:16.810 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:16.810  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:16.813  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_16_810.bmp
+2022-05-20 > 19:52:22.134  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:22.134 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:22.134 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:22.134 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:22.134  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:22.134 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:22.145 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:22.145 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:22.145 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:22.145 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:22.145  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:22.456 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:22.456 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:22.456  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:22.456 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:22.456  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:22.457 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:22.458  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:22.460  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_22_457.bmp
+2022-05-20 > 19:52:27.757  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:27.757 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:27.757 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:27.757 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:27.757  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:27.757 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:27.769 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:27.769 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:27.769 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:27.769 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:27.769  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:28.086 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:28.086 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:28.086  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:28.086 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:28.086  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:28.087 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:28.087  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:28.090  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_28_087.bmp
+2022-05-20 > 19:52:30.382  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:30.382 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:30.382 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:30.382 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:30.382  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:30.383 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:30.394 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:30.394 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:30.394 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:30.394 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:30.394  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:30.722 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:30.722 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:30.722  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:30.722 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:30.722  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:30.724 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:30.724  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:30.727  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_30_724.bmp
+2022-05-20 > 19:52:40.901  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:40.901 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:40.901 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:40.901 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:40.901  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:40.901 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:40.913 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:40.913 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:40.913 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:40.913 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:40.913  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:41.228 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:52:41.228 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:52:41.228  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:52:41.228 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:41.228  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:52:41.229 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:41.230  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:52:41.232  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_41_229.bmp
+2022-05-20 > 19:52:45.790  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:52:45.790 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:52:45.790 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:52:45.790 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:52:45.790  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:52:45.791 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:52:45.802 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:52:45.802 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:52:45.802 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:52:45.802 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:52:45.802  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:52:46.132 DEBUG                 main MVCam10::detection::img_det: Buffer size: 180
+2022-05-20 > 19:52:46.132 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"NG\", \"target_list\": [[[352, 249, 844, 1014], 0.325619101524353, 61], [[379, 247, 1190, 1024], 0.4167971909046173, 0]]}"
+2022-05-20 > 19:52:46.132  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "NG",
+    target_list: [
+        TargetInfo {
+            box_pos: [
+                352,
+                249,
+                844,
+                1014,
+            ],
+            box_conf: 0.3256191,
+            label_type: 61,
+        },
+        TargetInfo {
+            box_pos: [
+                379,
+                247,
+                1190,
+                1024,
+            ],
+            box_conf: 0.4167972,
+            label_type: 0,
+        },
+    ],
+}
+2022-05-20 > 19:52:46.132 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:52:46.132  INFO                 main MVCam10: The image detect result is "NG"
+2022-05-20 > 19:52:46.133 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:52:46.134  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result NG
+2022-05-20 > 19:52:46.136  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_52_46_133.bmp
+2022-05-20 > 19:52:46.156  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result image has been saved to ./images\2022_05_20\result\271001-1001-2022_05_20_19_52_46_133.jpg
+2022-05-20 > 19:53:02.877  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:53:02.877 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:53:02.877 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:53:02.877 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:53:02.877  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:53:02.878 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:53:02.889 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:53:02.889 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:53:02.889 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:53:02.889 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:53:02.890  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:53:03.210 DEBUG                 main MVCam10::detection::img_det: Buffer size: 132
+2022-05-20 > 19:53:03.211 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"NG\", \"target_list\": [[[562, 420, 1177, 1011], 0.5683656930923462, 0]]}"
+2022-05-20 > 19:53:03.211  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "NG",
+    target_list: [
+        TargetInfo {
+            box_pos: [
+                562,
+                420,
+                1177,
+                1011,
+            ],
+            box_conf: 0.5683657,
+            label_type: 0,
+        },
+    ],
+}
+2022-05-20 > 19:53:03.211 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:53:03.211  INFO                 main MVCam10: The image detect result is "NG"
+2022-05-20 > 19:53:03.212 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:53:03.212  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result NG
+2022-05-20 > 19:53:03.215  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_53_03_212.bmp
+2022-05-20 > 19:53:03.234  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result image has been saved to ./images\2022_05_20\result\271001-1001-2022_05_20_19_53_03_212.jpg
+2022-05-20 > 19:53:12.807  INFO                 main MVCam10: Got signal: [1]
+2022-05-20 > 19:53:12.808 DEBUG                 main MVCam10: Get frame success: Width: 1224, Height: 1024
+2022-05-20 > 19:53:12.808 DEBUG                 main MVCam10: First unsafe operation.
+2022-05-20 > 19:53:12.808 DEBUG                 main MVCam10: Second unsafe operation.
+2022-05-20 > 19:53:12.808  INFO                 main MVCam10: Source Image size: Size_ {
+    width: 1224,
+    height: 1024,
+}
+2022-05-20 > 19:53:12.808 DEBUG                 main MVCam10::imgp::img_proc: Image process finished.
+2022-05-20 > 19:53:12.820 DEBUG                 main MVCam10::imgp::img_proc: File write to Z:/capture.jpg
+2022-05-20 > 19:53:12.820 DEBUG                 main MVCam10: Image Process Finished.
+2022-05-20 > 19:53:12.820 DEBUG                 main MVCam10: Start detect Z:/capture.jpg
+2022-05-20 > 19:53:12.820 DEBUG                 main MVCam10::detection::img_det: input data was ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "",
+    target_list: [],
+}
+2022-05-20 > 19:53:12.820  INFO                 main MVCam10::detection::img_det: Image data sent.
+2022-05-20 > 19:53:13.158 DEBUG                 main MVCam10::detection::img_det: Buffer size: 85
+2022-05-20 > 19:53:13.158 DEBUG                 main MVCam10::detection::img_det: response was "{\"img_name\": \"\", \"img_path\": \"Z:/capture.jpg\", \"img_result\": \"OK\", \"target_list\": []}"
+2022-05-20 > 19:53:13.158  INFO                 main MVCam10::detection::img_det: Got data ImgData {
+    img_name: "",
+    img_path: "Z:/capture.jpg",
+    img_result: "OK",
+    target_list: [],
+}
+2022-05-20 > 19:53:13.158 DEBUG                 main MVCam10: Detect finished.
+2022-05-20 > 19:53:13.158  INFO                 main MVCam10: The image detect result is "OK"
+2022-05-20 > 19:53:13.159 DEBUG                 main MVCam10: Free Frame Success.
+2022-05-20 > 19:53:13.159  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Result OK
+2022-05-20 > 19:53:13.162  INFO tokio-runtime-worker MVCam10::imgp::img_proc: Source image has been saved to ./images\2022_05_20\bmp\271001-1001-2022_05_20_19_53_13_159.bmp
+2022-05-20 > 19:56:04.741  INFO                 main MVCam10: Got signal: [0]
+2022-05-20 > 19:56:04.741  INFO                 main MVCam10: >>>>>>>>Program Quit<<<<<<<<
+2022-05-20 > 19:56:04.760 DEBUG                 main MVCam10: Stop grabbing success.
+2022-05-20 > 19:56:04.997 DEBUG                 main MVCam10: Close device success.
+2022-05-20 > 19:56:05.013 DEBUG                 main MVCam10: Destroy handle success.
